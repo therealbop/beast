@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>WHAT ARE YOU? B&Sigma;A$T</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="/css/grayscale.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+    <p></p>
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse"> <i class="fa fa-bars"></i> 
+                </button>
+                <a class="navbar-brand page-scroll" href="http://beasteatorbeate.bootzee.com/index"> <i class="fa fa-play-circle"></i>  <span class="light"> B&Sigma;A$T</span> ONLY</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li><a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li><a class="page-scroll" href="#shop">Shop</a>
+                    </li>
+                    <li><a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                    <li><a class="page-scroll" href="#faq">FAQ</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    <!-- Intro Header -->
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2"></div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>About B&Sigma;A$T</h2>
+                <p></p>
+                <p style="text-align: center;">
+                    <a href="http://lh3.googleusercontent.com/w93xzyKPacfzdtd-B-Y2TWjA4d0Bmkg00Mozq-82xqwfLiSViOyohegwpUQKe1z9UYEbIoJ_V33wHRFWPiSIn5no">
+                        <img src="http://lh3.googleusercontent.com/ePoTfFQyHeTpFPXZVd34wLPFib3ENTA3x1AqCqDJ8a5p_minGMUarjD2U25V04tLsyAA0VpwtkJqqLp5yBCr4lWc" alt="beast" width="405" height="407" />
+                        <img src="http://lh3.googleusercontent.com/hc9Aejn-asj5N1XGsqZGbDVrvBTuZQViZ6eGOQO-z-IX-ntEb9JJhdURrp46Z2siinGQGFhwyqTYzS5cDVnTWQ" alt="beasty" width="288" height="512" />
+                    </a>
+                </p>
+                <p style="text-align: center;"><a class="navbar-brand page-scroll" href="#page-top" style="line-height: 1.42857; color: #ffffff; font-weight: bold; margin-left: -15px; font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; letter-spacing: 1px; text-align: start; text-transform: uppercase; display: inline !important; background-color: #000000;">&nbsp;</a>
+                </p>
+                <p>B&Sigma;A$T originated in 2012. This brand reflects a lifestyle that is seen through the apparel. You can be a B&Sigma;A$T in anything when you put your mind to it. Founded by Jillian Anderson, B&Sigma;A$T is a mindset. Not letting anything
+                    limit you or hold you back from reaching the goal at hand.</p>
+            </div>
+        </div>
+    </section>
+    <!-- Shop Section -->
+    <section id="shop" class="content-section text-center">
+        <div class="shop-section">
+            <div class="container">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <h2></h2>
+                    <h2 style="color: #ffffff;">SHOP</h2>
+                    <p></p>
+                    <p><a href="http://therealbop.spreadshirt.com" class="btn btn-default btn-lg">Visit Clothing Shop Page</a>
+                    </p>
+                    <p><a href="http://justabeast.bigcartel.com" class="btn btn-default btn-lg">Visit Hat Shop Page</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- FAQ Section -->
+    <section id="faq" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>FAQ B&Sigma;A$T</h2>
+                <p>Q: Can anyone be a B&Sigma;A$T?</p>
+                <p>A: Yes, from sports, to music to art. As long as you give your all in whatever you do.</p>
+            
+                <p>
+                    <img src="http://lh3.googleusercontent.com/GJ3KGqt_ho_e0_KFzGkQ94zO474qUk8qIDDKFn-g_bf2AsVc6E113BOJ9c_K6L6HVqrPc-UE1qAHxGtL5bV-MZM" alt="" width="512" height="494" />
+                    <img src="http://lh3.googleusercontent.com/GrEWc0krR6NrczOzZeQObDjU7KUnc1eelTQt1AaxAeGh2WKeyhy1-8_TO1Nz_VbaDKniN0eHLPxZKJsmkwuG9mY" alt="" width="512" height="512" />
+                    <img src="http://lh3.googleusercontent.com/zYe7Wko8Z17UWHGpVmKNmDziFouDFi0puw6n4FxpTr-a0_RWhn_SPnHqWFgRnAL1CD1iAuoGWXFICnipxbgyQg" alt="" width="512" height="503" />
+                    <img src="http://lh3.googleusercontent.com/HXCZDfT_ZMkcK-WL4EYqabBRlPb2WDkRFJlNfvvakJBkY6nBT5xf2YTFmuN9jWU-DY0KjSMpzPFBnFnkMLKIyQ" alt="" width="361" height="512" />
+                    <img src="http://lh3.googleusercontent.com/21E67J-pQzJ15zHCs-RWfx4NBiYGmq--4W4Kpbby_2DFl29qiL1kzDz_sNXiJh8wfUKiF_9S_ErPyoCNDoODZg" alt="" width="512" height="512" />
+                    <img src="http://lh3.googleusercontent.com/g2t2uTEZU2hWhlWJORcks16UeTCGnaVsXWD2TLFpPZxC0ybHNSD3c6tuUPwToEtn5a4LiaZOn6IXRAlfsBtehGpL" alt="" width="512" height="490" />
+                    <img src="http://lh3.googleusercontent.com/mDzmQKSD4cZ-c_vSL_Igeihs_A8IJUrUZLg0S5yAFcutmjXIR_oeK84weqmtG5Uqgfl0QXLr4FqOdkTrpsJlKQ" alt="" width="512" height="512" />
+                </p>
+                <p></p>
+                <p></p>
+                <p style="text-align: right;"><a class="navbar-brand page-scroll" href="#page-top" style="line-height: 1.42857; color: #ffffff; font-weight: bold; margin-left: -15px; font-family: Montserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif; letter-spacing: 1px; text-align: start; text-transform: uppercase; display: inline !important; background-color: #000000;">&nbsp;</a>
+                </p>
+            </div>
+        </div>
+    </section>
+    <!-- Contact Section -->
+    <section id="contact" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Contact</h2>
+                <p>Feel free to email custom orders or bulk orders to the email listed.</p>
+                <p><a href="mailto:jaa0829@gmail.com">jaa0829@gmail.com</a>
+                </p>
+                <ul class="list-inline banner-social-buttons">
+                    <li><a href="https://twitter.com/therealbop" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                    </li>
+                    <li><a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                    </li>
+                    <li><a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <!-- Map Section -->
+    <p></p>
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p>Updated December 2015</p>
+        </div>
+    </footer>
+    <!-- jQuery Version 1.11.0 -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <p></p>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&amp;sensor=false"></script>
+    <!-- Custom Theme JavaScript -->
+    <script src="/js/grayscale.js"></script>
+</body>
+
+</html>
